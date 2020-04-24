@@ -22,11 +22,4 @@ surfaces of the solid object used in the scene. <b>Lighting and Shading</b>
 9. Develop a menu driven program to fill the polygon using scan line algorithm
 
 
-## PART –B ( MINI-PROJECT) :
-Student should develop mini project on the topics mentioned below or similar applications using Open GL API. Consider all types of attributes like color, thickness, styles, font,
-background, speed etc., while doing mini project.
 
-(During the practical exam: the students should demonstrate and answer Viva-Voce)
-
-### Sample Topics:
-Simulation of concepts of OS, Data structures, algorithms etc.
